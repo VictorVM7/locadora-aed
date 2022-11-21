@@ -19,3 +19,24 @@ C:\Users\victo\OneDrive\Área de Trabalho\locadora-aed\obj\Debug\locadora-aed.cs
 C:\Users\victo\OneDrive\Área de Trabalho\locadora-aed\obj\Debug\locadora-aed.csproj.CopyComplete
 C:\Users\victo\OneDrive\Área de Trabalho\locadora-aed\obj\Debug\locadora-aed.exe
 C:\Users\victo\OneDrive\Área de Trabalho\locadora-aed\obj\Debug\locadora-aed.pdb
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\bin\Debug\locadora-aed.exe.config
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\bin\Debug\locadora-aed.exe
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\bin\Debug\locadora-aed.pdb
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\bin\Debug\EntityFramework.dll
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\bin\Debug\System.Data.SQLite.dll
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\bin\Debug\EntityFramework.xml
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\bin\Debug\System.Data.SQLite.xml
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\obj\Debug\locadora-aed.csproj.AssemblyReference.cache
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\obj\Debug\locadora-aed.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\obj\Debug\locadora_aed.Form1.resources
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\obj\Debug\locadora_aed.F_Login.resources
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\obj\Debug\locadora_aed.Properties.Resources.resources
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\obj\Debug\locadora-aed.csproj.GenerateResource.cache
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\obj\Debug\locadora-aed.csproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\obj\Debug\locadora-aed.csproj.CopyComplete
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\obj\Debug\locadora-aed.exe
+C:\Users\victo\Source\Repos\VictorVM7\locadora-aed\codigo\obj\Debug\locadora-aed.pdb

@@ -20,7 +20,7 @@ namespace locadora_aed
             f_login.ShowDialog(); // Mostra na tela do usuário a tela de login
         }
 
-        // Função que exibe caixa de alerta para o usuário confirmar a ação. Ela retorna a resposta "Yes" ou "No". Podendo ser convertida em string para comparação
+        // Função que exibe caixa de alerta para o usuário confirmar a ação
         static DialogResult perguntaUsuario(DialogResult opcaoUsuario)
         {
             opcaoUsuario = MessageBox.Show("Deseja executar essa ação?", "Atenção!", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
@@ -45,7 +45,7 @@ namespace locadora_aed
             // Se o botão de login for chamado e ela estiver logado, peça para que deslogue primeiro
             else
             {
-                MessageBox.Show($"Deslogue do usuário {lb_usuario.Text} primeiro!", "Atenção!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show($"Para entrar com outro usuário, deslogue do usuário {lb_usuario.Text} primeiro!", "Atenção!", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
